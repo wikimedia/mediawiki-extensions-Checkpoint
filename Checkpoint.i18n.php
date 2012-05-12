@@ -289,10 +289,11 @@ $messages['it'] = array(
 );
 
 /** Japanese (日本語)
+ * @author Shirayuki
  * @author 青子守歌
  */
 $messages['ja'] = array(
-	'checkpoint' => '保存し、編集を続ける',
+	'checkpoint' => '保存して編集を続行',
 	'checkpoint-desc' => '編集を保存したあとに、編集を続けることを許可する',
 	'checkpoint-tooltip' => '進んだところまでを保存し、そのページの編集を続ける',
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|チェックポイントの保存]])',

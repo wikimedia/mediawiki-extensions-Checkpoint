@@ -43,7 +43,7 @@ $messages['ar'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:نقطة علام|حفظ نقطة علام]])',
 );
 
-/** Asturian (Asturianu)
+/** Asturian (asturianu)
  * @author Xuacu
  */
 $messages['ast'] = array(
@@ -74,7 +74,7 @@ $messages['be-tarask'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|захаваньне кантрольнага пункту]])',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fulup
  * @author Y-M D
  */
@@ -85,7 +85,7 @@ $messages['br'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|enrollañ ur poent evezhiañ]])',
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -95,7 +95,7 @@ $messages['bs'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|spremljena međuverzija]])',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author El libre
  * @author Paucabot
  * @author SMP
@@ -107,7 +107,7 @@ $messages['ca'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Punt de control|punt de control guardat]])',
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Jkjk
  */
 $messages['cs'] = array(
@@ -159,7 +159,7 @@ $messages['eo'] = array(
 	'checkpoint-tooltip' => 'Konservi vian agadon kaj daŭri redaktante la paĝon',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Crazymadlover
  * @author Locos epraix
  */
@@ -170,7 +170,7 @@ $messages['es'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|grabar checkpoint]])',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Centerlink
  * @author Str4nd
  */
@@ -181,7 +181,7 @@ $messages['fi'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Tarkistuspiste|tarkistuspistetallennus]])',
 );
 
-/** French (Français)
+/** French (français)
  * @author Peter17
  */
 $messages['fr'] = array(
@@ -191,7 +191,7 @@ $messages['fr'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|enregistrer un point de contrôle]])',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author ChrisPtDe
  */
 $messages['frp'] = array(
@@ -231,7 +231,7 @@ $messages['he'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|שמירת נקודת ביקורת]])',
 );
 
-/** Croatian (Hrvatski)
+/** Croatian (hrvatski)
  * @author Herr Mlinka
  */
 $messages['hr'] = array(
@@ -248,7 +248,7 @@ $messages['hsb'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|składowanje kontrolneho dypka]])',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Glanthor Reviol
  */
 $messages['hu'] = array(
@@ -258,7 +258,7 @@ $messages['hu'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|köztes mentés]])',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -278,7 +278,7 @@ $messages['id'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|simpan checkpoint]])',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Beta16
  */
 $messages['it'] = array(
@@ -294,8 +294,8 @@ $messages['it'] = array(
  */
 $messages['ja'] = array(
 	'checkpoint' => '保存して編集を続行',
-	'checkpoint-desc' => '編集を保存したあとに、編集を続けることを許可する',
-	'checkpoint-tooltip' => '進んだところまでを保存し、そのページの編集を続ける',
+	'checkpoint-desc' => '編集を保存した後、編集を続行できるようにする',
+	'checkpoint-tooltip' => '現時点のものを保存して、ページの編集を続行する',
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|チェックポイントの保存]])',
 );
 
@@ -347,14 +347,14 @@ $messages['li'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Tössesjtappe|tössesjtap opsjlaon]])',
 );
 
-/** Lithuanian (Lietuvių)
+/** Lithuanian (lietuvių)
  * @author Eitvys200
  */
 $messages['lt'] = array(
 	'checkpoint' => 'Išsaugoti ir tęsti redagavimą',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -402,7 +402,7 @@ $messages['nl'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Tussenstappen|tussenstap opslaan]])',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -412,7 +412,7 @@ $messages['oc'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|enregistrar un punt de contraròtle]])',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Marcin Łukasz Kiejzik
  * @author Sp5uhe
  */
@@ -434,7 +434,7 @@ $messages['pms'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|salvé un pont ëd contròl]])',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  */
 $messages['pt'] = array(
@@ -444,7 +444,7 @@ $messages['pt'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|gravação do estado presente]])',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Giro720
  * @author Luckas Blade
  */
@@ -455,7 +455,7 @@ $messages['pt-br'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|gravação do estado presente]])',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author Stelistcristi
  */
 $messages['ro'] = array(
@@ -463,7 +463,7 @@ $messages['ro'] = array(
 	'checkpoint-tooltip' => 'Salvează-ţi progresul şi continuă editarea paginii',
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Александр Сигачёв
  */
 $messages['ru'] = array(
@@ -473,7 +473,7 @@ $messages['ru'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|сохранение контрольной точки]])',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -483,7 +483,7 @@ $messages['sk'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|Uloženie kontrolného bodu]])',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Charmed94
  * @author Жељко Тодоровић
  */
@@ -494,7 +494,7 @@ $messages['sr-ec'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|прелаз чувања]])',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Жељко Тодоровић
  */
 $messages['sr-el'] = array(
@@ -504,7 +504,7 @@ $messages['sr-el'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|prelaz čuvanja]])',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Per
  */
 $messages['sv'] = array(
@@ -552,7 +552,7 @@ $messages['tr'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Kontrol noktası|kontrol noktası kayıt]])',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author Sodmy
  */
 $messages['uk'] = array(
@@ -573,7 +573,7 @@ $messages['vi'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Kiểm soát|lưu nửa chừng]])',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Chenxiaoqino
  * @author Wilsonmess
  */
@@ -584,7 +584,7 @@ $messages['zh-hans'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|保存点]])',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Mark85296341
  */
 $messages['zh-hant'] = array(

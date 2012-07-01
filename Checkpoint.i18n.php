@@ -63,7 +63,7 @@ $messages['ba'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|туҡтау нөктәһен һаҡлау]])',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -131,7 +131,7 @@ $messages['de-formal'] = array(
 	'checkpoint-tooltip' => 'Speichern Sie den aktuellen Bearbeitungsstand und fahren Sie sogleich mit der Bearbeitung fort',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -201,7 +201,7 @@ $messages['frp'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|sôvar un pouent de contrôlo]])',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -238,7 +238,7 @@ $messages['hr'] = array(
 	'checkpoint' => 'Spremi i nastavi uređivanje',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(

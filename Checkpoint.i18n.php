@@ -231,6 +231,16 @@ $messages['he'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|שמירת נקודת ביקורת]])',
 );
 
+/** Fiji Hindi (Latin script) (Fiji Hindi)
+ * @author Girmitya
+ */
+$messages['hif-latn'] = array(
+	'checkpoint' => 'File ke bachao aur fir badlao karte raho',
+	'checkpoint-desc' => 'Ii koi ke aapan badlao ke bachae ke baad aur badlao kare de hae',
+	'checkpoint-tooltip' => 'Jetna kaam abhi talak karaa hae, ke bachao , aur iske baad panna ke badalte raho',
+	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|checkpoint bachao]])',
+);
+
 /** Croatian (hrvatski)
  * @author Herr Mlinka
  */

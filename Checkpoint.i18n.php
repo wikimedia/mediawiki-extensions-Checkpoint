@@ -53,7 +53,7 @@ $messages['ast'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|guardar un puntu de control]])',
 );
 
-/** Bashkir (Башҡортса)
+/** Bashkir (башҡортса)
  * @author Assele
  */
 $messages['ba'] = array(
@@ -392,7 +392,7 @@ $messages['ms'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|simpan cekpoin]])',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(

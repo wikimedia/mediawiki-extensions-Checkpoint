@@ -392,6 +392,16 @@ $messages['ms'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|simpan cekpoin]])',
 );
 
+/** Maltese (Malti)
+ * @author Chrisportelli
+ */
+$messages['mt'] = array(
+	'checkpoint' => 'Salva u kompli mmodifika',
+	'checkpoint-desc' => 'Jippermetti li ssalva modifika u tkompli tagħmel modifiki',
+	'checkpoint-tooltip' => 'Salva l-progress tiegħek u kompli mmodifika l-paġna',
+	'checkpoint-notice' => "([[{{ns:project}}:Checkpoint|punt ta' kontroll]])",
+);
+
 /** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */

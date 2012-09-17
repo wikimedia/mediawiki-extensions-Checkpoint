@@ -16,10 +16,14 @@ $messages['en'] = array(
 );
 
 /** Message documentation (Message documentation)
+ * @author Shirayuki
  * @author Umherirrender
  */
 $messages['qqq'] = array(
+	'checkpoint' => 'Used as button text',
 	'checkpoint-desc' => '{{desc}}',
+	'checkpoint-tooltip' => 'Tooltip for the button {{msg-mw|Checkpoint}}',
+	'checkpoint-notice' => 'Used as the summary when the user clicked the button {{msg-mw|Checkpoint}}.',
 );
 
 /** Afrikaans (Afrikaans)
@@ -305,7 +309,7 @@ $messages['it'] = array(
 $messages['ja'] = array(
 	'checkpoint' => '保存して編集を続行',
 	'checkpoint-desc' => '編集を保存した後、その編集を続行できるようにする',
-	'checkpoint-tooltip' => '現時点のものを保存して、ページの編集を続行する',
+	'checkpoint-tooltip' => '現時点の内容を保存して、ページの編集を続行する',
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|チェックポイントの保存]])',
 );
 

@@ -67,7 +67,7 @@ $messages['ba'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|туҡтау нөктәһен һаҡлау]])',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -128,7 +128,7 @@ $messages['de'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|Zwischenspeicherung]])',
 );
 
-/** German (formal address) (‪Deutsch (Sie-Form)‬)
+/** German (formal address) (Deutsch (Sie-Form)‎)
  * @author Kghbln
  */
 $messages['de-formal'] = array(
@@ -406,7 +406,7 @@ $messages['mt'] = array(
 	'checkpoint-notice' => "([[{{ns:project}}:Checkpoint|punt ta' kontroll]])",
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -507,7 +507,7 @@ $messages['sk'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|Uloženie kontrolného bodu]])',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Charmed94
  * @author Жељко Тодоровић
  */
@@ -518,7 +518,7 @@ $messages['sr-ec'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|прелаз чувања]])',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Жељко Тодоровић
  */
 $messages['sr-el'] = array(
@@ -597,7 +597,7 @@ $messages['vi'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Kiểm soát|lưu nửa chừng]])',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Chenxiaoqino
  * @author Wilsonmess
  */
@@ -608,7 +608,7 @@ $messages['zh-hans'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|保存点]])',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Mark85296341
  */
 $messages['zh-hant'] = array(

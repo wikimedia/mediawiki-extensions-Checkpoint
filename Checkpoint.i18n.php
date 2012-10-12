@@ -135,6 +135,14 @@ $messages['de-formal'] = array(
 	'checkpoint-tooltip' => 'Speichern Sie den aktuellen Bearbeitungsstand und fahren Sie sogleich mit der Bearbeitung fort',
 );
 
+/** Zazaki (Zazaki)
+ * @author Erdemaslancan
+ */
+$messages['diq'] = array(
+	'checkpoint' => 'Qeyd ke u nusnayışi re dewam ke',
+	'checkpoint-notice' => '([[{{ns:project}}:heruna kontroli|Heruna kontrol de qeydi]])',
+);
+
 /** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */

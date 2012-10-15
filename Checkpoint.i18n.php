@@ -137,10 +137,11 @@ $messages['de-formal'] = array(
 
 /** Zazaki (Zazaki)
  * @author Erdemaslancan
+ * @author Mirzali
  */
 $messages['diq'] = array(
-	'checkpoint' => 'Qeyd ke u nusnayışi re dewam ke',
-	'checkpoint-notice' => '([[{{ns:project}}:heruna kontroli|Heruna kontrol de qeydi]])',
+	'checkpoint' => 'Qeyd ke u vurnayışi rê dewam ke',
+	'checkpoint-notice' => '([[{{ns:project}}:Cayê qontroli|Cayê qontroli qeyd ke]])',
 );
 
 /** Lower Sorbian (dolnoserbski)

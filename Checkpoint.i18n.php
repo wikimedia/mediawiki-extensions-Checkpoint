@@ -141,7 +141,7 @@ $messages['de-formal'] = array(
  */
 $messages['diq'] = array(
 	'checkpoint' => 'Qeyd ke u vurnayışi rê dewam ke',
-	'checkpoint-notice' => '([[{{ns:project}}:Cayê qontroli|Cayê qontroli qeyd ke]])',
+	'checkpoint-notice' => '([[{{ns:project}}:Cayê qontroli|cayê qontroli qeyd ke]])',
 );
 
 /** Lower Sorbian (dolnoserbski)

@@ -626,4 +626,3 @@ $messages['zh-hant'] = array(
 	'checkpoint-tooltip' => '儲存你的進度並繼續編輯',
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|檢查點儲存]])',
 );
-

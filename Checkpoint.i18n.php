@@ -606,6 +606,13 @@ $messages['vi'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Kiểm soát|lưu nửa chừng]])',
 );
 
+/** Yiddish (ייִדיש)
+ * @author פוילישער
+ */
+$messages['yi'] = array(
+	'checkpoint' => 'אויפהיטן און רעדאקטירן ווייטער',
+);
+
 /** Simplified Chinese (中文（简体）‎)
  * @author Chenxiaoqino
  * @author Wilsonmess

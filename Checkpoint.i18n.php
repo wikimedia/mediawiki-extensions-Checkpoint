@@ -113,9 +113,11 @@ $messages['ca'] = array(
 
 /** Czech (česky)
  * @author Jkjk
+ * @author Vks
  */
 $messages['cs'] = array(
 	'checkpoint' => 'Uložit a pokračovat v úpravách',
+	'checkpoint-tooltip' => 'Uložit aktuální stav a pokračovat v úpravách stránky',
 );
 
 /** German (Deutsch)

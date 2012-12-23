@@ -21,7 +21,7 @@ $messages['en'] = array(
  */
 $messages['qqq'] = array(
 	'checkpoint' => 'Used as button text',
-	'checkpoint-desc' => '{{desc}}',
+	'checkpoint-desc' => '{{desc|name=Checkpoint|url=http://www.mediawiki.org/wiki/Extension:Checkpoint}}',
 	'checkpoint-tooltip' => 'Tooltip for the button {{msg-mw|Checkpoint}}',
 	'checkpoint-notice' => 'Used as the summary when the user clicked the button {{msg-mw|Checkpoint}}.',
 );

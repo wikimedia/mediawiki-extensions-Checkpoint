@@ -508,6 +508,13 @@ $messages['ru'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|сохранение контрольной точки]])',
 );
 
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'checkpoint' => 'සුරක්ෂිත කර සංස්කරණය කරගෙන යන්න',
+);
+
 /** Slovak (slovenčina)
  * @author Helix84
  */

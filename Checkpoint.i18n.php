@@ -447,6 +447,15 @@ $messages['oc'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|enregistrar un punt de contraròtle]])',
 );
 
+/** Oriya (ଓଡ଼ିଆ)
+ * @author Jnanaranjan Sahu
+ */
+$messages['or'] = array(
+	'checkpoint' => 'ସାଇତିବେ ଏବଂ ବଦଳ ଜାରି ରଖିବେ',
+	'checkpoint-desc' => 'ଏହା ବଦଳଟିକୁକୁ ସାଇତିବା ସହ ବଦଳ ଜାରିରଖିବାକୁ ଅନୁମତି ଦେଇଥାଏ',
+	'checkpoint-notice' => '([[{{ns:project}}:ନିରୀକ୍ଷଣ ସ୍ଥାନ|checkpoint save]])',
+);
+
 /** Polish (polski)
  * @author Marcin Łukasz Kiejzik
  * @author Sp5uhe

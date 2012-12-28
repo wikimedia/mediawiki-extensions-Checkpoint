@@ -166,12 +166,14 @@ $messages['el'] = array(
 );
 
 /** Esperanto (Esperanto)
+ * @author Objectivesea
  * @author Yekrats
  */
 $messages['eo'] = array(
 	'checkpoint' => 'Konservi kaj daŭri redaktadon',
 	'checkpoint-desc' => 'Permesas al oni konservi redakton kaj daŭri redaktadon',
 	'checkpoint-tooltip' => 'Konservi vian agadon kaj daŭri redaktante la paĝon',
+	'checkpoint-notice' => '([[{{ns:project}}:Kontrolpunkto|registri la kontrolpunkton]])',
 );
 
 /** Spanish (español)

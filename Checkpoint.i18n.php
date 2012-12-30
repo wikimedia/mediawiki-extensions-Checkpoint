@@ -439,6 +439,13 @@ $messages['nl'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Tussenstappen|tussenstap opslaan]])',
 );
 
+/** Nederlands (informeel)‎ (Nederlands (informeel)‎)
+ * @author Siebrand
+ */
+$messages['nl-informal'] = array(
+	'checkpoint-tooltip' => 'Je voortgang opslaan en doorgaan met het bewerken van de pagina',
+);
+
 /** Occitan (occitan)
  * @author Cedric31
  */

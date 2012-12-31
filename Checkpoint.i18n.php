@@ -531,6 +531,9 @@ $messages['ru'] = array(
  */
 $messages['si'] = array(
 	'checkpoint' => 'සුරක්ෂිත කර සංස්කරණය කරගෙන යන්න',
+	'checkpoint-desc' => 'සංස්කරණය සුරක්ෂිත කොට පිටුව දිගටම සංස්කරණය කිරීමට ඉඩදෙන්න',
+	'checkpoint-tooltip' => 'ඔබේ ක්‍රියාවලිය සුරක්ෂිත කොට පිටුව දිගටම සංස්කරණය කරන්න',
+	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|පිරික්සුම් ලක්ෂ්‍ය සුරැකීම]])',
 );
 
 /** Slovak (slovenčina)

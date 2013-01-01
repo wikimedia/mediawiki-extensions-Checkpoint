@@ -57,6 +57,16 @@ $messages['ast'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|guardar un puntu de control]])',
 );
 
+/** South Azerbaijani (تورکجه)
+ * @author Mousa
+ */
+$messages['azb'] = array(
+	'checkpoint' => 'قئید ائت و دَییشدیرمگی داوام ائت',
+	'checkpoint-desc' => 'بیرکسه قئید ائتمک و دَییشدیرمگی داوام ائتمک ایجازه‌سی وئریر',
+	'checkpoint-tooltip' => 'قاباغا گئتدیگینیزی قئید ائدین و صحیفه‌نی دَییشدیرمگه داوام ائدین',
+	'checkpoint-notice' => '([[{{ns:project}}:کونترول نوقطه‌سی|کونترول نوقطه‌سی قئید ائتمک]])',
+);
+
 /** Bashkir (башҡортса)
  * @author Assele
  */

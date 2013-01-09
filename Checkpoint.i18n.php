@@ -526,6 +526,13 @@ $messages['ro'] = array(
 	'checkpoint-tooltip' => 'Salvează-ţi progresul şi continuă editarea paginii',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'checkpoint' => "Reggistre e condinue 'u cangiamende",
+);
+
 /** Russian (русский)
  * @author Александр Сигачёв
  */

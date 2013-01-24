@@ -531,6 +531,8 @@ $messages['ro'] = array(
  */
 $messages['roa-tara'] = array(
 	'checkpoint' => "Reggistre e condinue 'u cangiamende",
+	'checkpoint-desc' => "Permette de reggistrà 'nu cangiamende e de condinuà a cangià",
+	'checkpoint-tooltip' => "Reggistre le cangiaminde tune e condinue a cangià 'a pàgene",
 );
 
 /** Russian (русский)

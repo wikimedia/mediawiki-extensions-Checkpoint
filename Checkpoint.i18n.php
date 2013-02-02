@@ -336,6 +336,16 @@ $messages['ja'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|チェックポイントの保存]])',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'checkpoint' => 'შეინახეთ და გააგრძელეთ რედაქტირება',
+	'checkpoint-desc' => 'საშუალებას იძლევა შეინახოთ და გააგრძელოთ რედაქტირება',
+	'checkpoint-tooltip' => 'შეინახეთ თქვენი ნამუშევარი და გააგრძელეთ გვერდის რედაქტირება',
+	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|საკონტროლო წერტილის შენახვა]])',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author គីមស៊្រុន
  */

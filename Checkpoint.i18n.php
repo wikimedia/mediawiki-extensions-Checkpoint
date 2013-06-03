@@ -439,7 +439,7 @@ $messages['mt'] = array(
 	'checkpoint-notice' => "([[{{ns:project}}:Checkpoint|punt ta' kontroll]])",
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -476,7 +476,7 @@ $messages['oc'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|enregistrar un punt de contraròtle]])',
 );
 
-/** Oriya (ଓଡ଼ିଆ)
+/** Oriya (ଓଡ଼ିଆ)
  * @author Jnanaranjan Sahu
  */
 $messages['or'] = array(
@@ -519,6 +519,7 @@ $messages['pt'] = array(
 
 /** Brazilian Portuguese (português do Brasil)
  * @author Giro720
+ * @author Luckas
  * @author Luckas Blade
  */
 $messages['pt-br'] = array(

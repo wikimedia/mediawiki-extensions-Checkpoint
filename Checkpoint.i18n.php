@@ -197,6 +197,13 @@ $messages['es'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|grabar checkpoint]])',
 );
 
+/** Persian (فارسی)
+ * @author Mahdiz
+ */
+$messages['fa'] = array(
+	'checkpoint' => 'ذخیره و ادامه ویرایش',
+);
+
 /** Finnish (suomi)
  * @author Centerlink
  * @author Str4nd

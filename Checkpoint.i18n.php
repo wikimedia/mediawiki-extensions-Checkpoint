@@ -406,6 +406,7 @@ $messages['li'] = array(
  */
 $messages['lt'] = array(
 	'checkpoint' => 'Išsaugoti ir tęsti redagavimą',
+	'checkpoint-tooltip' => 'Įrašyti savo progresą ir toliau redaguoti puslapį',
 );
 
 /** Macedonian (македонски)

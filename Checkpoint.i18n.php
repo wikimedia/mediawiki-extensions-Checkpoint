@@ -427,6 +427,16 @@ $messages['ml'] = array(
 	'checkpoint-desc' => 'ഒരാളെ തിരുത്തൽ സേവ് ചെയ്യാനും എന്നിട്ട് തിരുത്തൽ തുടരാനും അനുവദിക്കുന്നു',
 );
 
+/** Marathi (मराठी)
+ * @author V.narsikar
+ */
+$messages['mr'] = array(
+	'checkpoint' => 'जतन करा व संपादन सुरू ठेवा',
+	'checkpoint-desc' => 'संपादन जतन करण्यास व पुढील संपादन सुरु ठेवण्यास कोणासही परवानगी देते',
+	'checkpoint-tooltip' => 'आपली प्रगती जतन करा व संपादन चालू ठेवा',
+	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|तपासबिंदू जतन करा]])',
+);
+
 /** Malay (Bahasa Melayu)
  * @author Anakmalaysia
  */

@@ -77,6 +77,16 @@ $messages['ba'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|туҡтау нөктәһен һаҡлау]])',
 );
 
+/** Bikol Central (Bikol Central)
+ * @author Geopoet
+ */
+$messages['bcl'] = array(
+	'checkpoint' => 'Itagama asin ipadagos an pagliliwat',
+	'checkpoint-desc' => 'Minatugot sa saro na maitagama an niliwat asin maipadagos an pagliliwat',
+	'checkpoint-tooltip' => 'Itagama an saimong progreso asin ipadagos an pagliliwat kan pahina',
+	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|puntos-nin-rikisa itagama]])',
+);
+
 /** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by

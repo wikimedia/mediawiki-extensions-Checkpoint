@@ -131,7 +131,7 @@ $messages['ca'] = array(
 	'checkpoint-notice' => '([[{{ns:project}}:Punt de control|punt de control guardat]])',
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Jkjk
  * @author Vks
  */

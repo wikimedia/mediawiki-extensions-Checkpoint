@@ -208,10 +208,14 @@ $messages['es'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Armin1392
  * @author Mahdiz
  */
 $messages['fa'] = array(
 	'checkpoint' => 'ذخیره و ادامه ویرایش',
+	'checkpoint-desc' => 'اجازهٔ ذخیرهٔ ویرایش و ادامهٔ ویرایش',
+	'checkpoint-tooltip' => ' پیشرفت خود را ذخیره کنید و به ویرایش صفحه ادامه دهید',
+	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|checkpoint save]])',
 );
 
 /** Finnish (suomi)

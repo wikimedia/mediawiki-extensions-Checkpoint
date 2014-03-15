@@ -400,7 +400,7 @@ $messages['ksh'] = array(
  * @author Robby
  */
 $messages['lb'] = array(
-	'checkpoint' => 'Späicheren a weiderfueren mat Änneren',
+	'checkpoint' => 'Späicheren a virufuere mat Änneren',
 	'checkpoint-desc' => 'Erlaabt et eng Ännerung ze späicheren a mam Ännere weiderzefueren',
 	'checkpoint-tooltip' => 'Späichert dat wat Dir gemaach hutt a fuert weider mat Ären Ännerungen',
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|Kontrollpunkt späicheren]])',

@@ -198,12 +198,13 @@ $messages['eo'] = array(
 
 /** Spanish (español)
  * @author Crazymadlover
+ * @author Fitoschido
  * @author Locos epraix
  */
 $messages['es'] = array(
 	'checkpoint' => 'Guardar y continuar editando',
 	'checkpoint-desc' => 'Permite a uno para grabar una edición y seguir editando',
-	'checkpoint-tooltip' => 'Grabar tu progreso y seguir editando la página',
+	'checkpoint-tooltip' => 'Guardar tu progreso y seguir editando la página',
 	'checkpoint-notice' => '([[{{ns:project}}:Checkpoint|grabar checkpoint]])',
 );
 

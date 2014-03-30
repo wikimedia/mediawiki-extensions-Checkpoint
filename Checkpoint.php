@@ -16,9 +16,10 @@ $wgExtensionCredits['other'][] = array(
 	'descriptionmsg' => 'checkpoint-desc',
 	'author'         => 'Ryan Schmidt',
 	'url'            => 'https://www.mediawiki.org/wiki/Extension:Checkpoint',
-	'version'        => '0.1',
+	'version'        => '0.2.0',
 );
 
+$wgMessagesDirs['Checkpoint'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['Checkpoint'] = dirname( __FILE__ ) . '/Checkpoint.i18n.php';
 
 $wgHooks['EditPageBeforeEditButtons'][] = 'efCheckpointButton';

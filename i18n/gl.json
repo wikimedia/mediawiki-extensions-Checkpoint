@@ -1,11 +1,11 @@
 {
-    "@metadata": {
-        "authors": [
-            "Toliño"
-        ]
-    },
-    "checkpoint": "Gardar e continuar a edición",
-    "checkpoint-desc": "Permite gardar unha edición e continuar modificando",
-    "checkpoint-tooltip": "Gardar o seu progreso e continuar a editar a páxina",
-    "checkpoint-notice": "([[{{ns:project}}:Checkpoint|crear un punto de control]])"
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"checkpoint": "Gardar e continuar a edición",
+	"checkpoint-desc": "Permite gardar unha edición e continuar modificando",
+	"checkpoint-tooltip": "Gardar o seu progreso e continuar a editar a páxina",
+	"checkpoint-notice": "([[{{ns:project}}:Checkpoint|crear un punto de control]])"
 }

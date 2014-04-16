@@ -1,13 +1,13 @@
 {
-    "@metadata": {
-        "authors": [
-            "Crazymadlover",
-            "Fitoschido",
-            "Locos epraix"
-        ]
-    },
-    "checkpoint": "Guardar y continuar editando",
-    "checkpoint-desc": "Permite a uno para grabar una edición y seguir editando",
-    "checkpoint-tooltip": "Guardar tu progreso y seguir editando la página",
-    "checkpoint-notice": "([[{{ns:project}}:Checkpoint|grabar checkpoint]])"
+	"@metadata": {
+		"authors": [
+			"Crazymadlover",
+			"Fitoschido",
+			"Locos epraix"
+		]
+	},
+	"checkpoint": "Guardar y continuar editando",
+	"checkpoint-desc": "Permite a uno para grabar una edición y seguir editando",
+	"checkpoint-tooltip": "Guardar tu progreso y seguir editando la página",
+	"checkpoint-notice": "([[{{ns:project}}:Checkpoint|grabar checkpoint]])"
 }

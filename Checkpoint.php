@@ -31,8 +31,8 @@ function efCheckpointButton( &$editpage, &$buttons ) {
 		'id'    => 'wpCheckpoint',
 		'name'  => 'wpCheckpoint',
 		'type'  => 'submit',
-		'value' => wfMsg( 'checkpoint' ),
-		'title' => wfMsg( 'checkpoint-tooltip' ),
+		'value' => wfMessage( 'checkpoint' )->text(),
+		'title' => wfMessage( 'checkpoint-tooltip' )->text(),
 	);
 	$buttons['checkpoint'] = Xml::element( 'input', $attr, '' );
 	return true;
@@ -49,7 +49,7 @@ function efCheckpointSave( $article, $user, $text, &$summary, $minor, $watch, $s
 			$oldtext = $article->getRawText(); // current revision
 			$summary = $article->getAutosummary( $oldtext, $text, $flags );
 		}
-		$summary .= wfMsg( 'word-separator' ) . wfMsg( 'checkpoint-notice' );
+		$summary .= wfMessage( 'word-separator' )->text() . wfMessage( 'checkpoint-notice' )->text();
 	}
 	return true;
 }

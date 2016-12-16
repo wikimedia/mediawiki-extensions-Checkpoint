@@ -23,7 +23,7 @@ $wgMessagesDirs['Checkpoint'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['Checkpoint'] = dirname( __FILE__ ) . '/Checkpoint.i18n.php';
 
 $wgHooks['EditPageBeforeEditButtons'][] = 'efCheckpointButton';
-$wgHooks['ArticleSave'][] = 'efCheckpointSave';
+$wgHooks['PageContentSave'][] = 'efCheckpointSave';
 $wgHooks['GetFullURL'][] = 'efCheckpointReturn';
 
 function efCheckpointButton( &$editpage, &$buttons ) {
@@ -38,7 +38,8 @@ function efCheckpointButton( &$editpage, &$buttons ) {
 	return true;
 }
 
-function efCheckpointSave( $article, $user, $text, &$summary, $minor, $watch, $sectionanchor, $flags ) {
+function efCheckpointSave( &$wikiPage, &$user, &$content, &$summary,
+	$isMinor, $isWatch, $section, &$flags, &$status ) {
 	global $wgRequest;
 
 	if ( $wgRequest->getCheck( 'wpCheckpoint' ) ) {
@@ -46,8 +47,8 @@ function efCheckpointSave( $article, $user, $text, &$summary, $minor, $watch, $s
 			// blank summary, so let's get an automatic one if
 			// applicable (the appending bit prevents autosummaries
 			// from appearing otherwise).
-			$oldtext = $article->getContent( Revision::RAW ); // current revision
-			$summary = $article->getAutosummary( $oldtext, $text, $flags );
+			$old_content = $wikiPage->getContent( Revision::RAW ); // current revision
+			$summary = $wikiPage->getContentHandler()->getAutosummary( $old_content, $content, $flags );
 		}
 		$summary .= wfMessage( 'word-separator' )->text() . wfMessage( 'checkpoint-notice' )->text();
 	}

@@ -20,7 +20,6 @@ $wgExtensionCredits['other'][] = array(
 );
 
 $wgMessagesDirs['Checkpoint'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['Checkpoint'] = dirname( __FILE__ ) . '/Checkpoint.i18n.php';
 
 $wgHooks['EditPageBeforeEditButtons'][] = 'efCheckpointButton';
 $wgHooks['PageContentSave'][] = 'efCheckpointSave';

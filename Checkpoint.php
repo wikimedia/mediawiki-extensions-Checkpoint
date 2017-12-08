@@ -37,7 +37,7 @@ function efCheckpointButton( &$editpage, &$buttons ) {
 	return true;
 }
 
-function efCheckpointSave( &$wikiPage, &$user, &$content, &$summary,
+function efCheckpointSave( WikiPage &$wikiPage, &$user, &$content, &$summary,
 	$isMinor, $isWatch, $section, &$flags, &$status ) {
 	global $wgRequest;
 

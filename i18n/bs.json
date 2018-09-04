@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"CERminator"
+			"CERminator",
+			"BadDog"
 		]
 	},
-	"checkpoint": "Spremi i nastavi sa uređivanjem",
+	"checkpoint": "Sačuvaj i nastavi s uređivanjem",
 	"checkpoint-desc": "Omogućuje korisniku da spremi promjenu i nastavi uređivanje",
 	"checkpoint-tooltip": "Spremite vaš doprinos i nastavite uređivati stranicu",
 	"checkpoint-notice": "([[{{ns:project}}:Checkpoint|spremljena međuverzija]])"

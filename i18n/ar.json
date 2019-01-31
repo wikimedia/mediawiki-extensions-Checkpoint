@@ -2,10 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Ciphers",
-			"Moemin05"
+			"Moemin05",
+			"Meno25"
 		]
 	},
-	"checkpoint": "احفظ واستمرّ في التحرير",
+	"checkpoint": "احفظ واستمر في التحرير",
 	"checkpoint-desc": "يُتيح حفظ المراجعة والإستمرار في التحرير",
 	"checkpoint-tooltip": "إحفظ هذه المرحلة واستمرّ في تحرير الصفحة",
 	"checkpoint-notice": "([[{{ns:project}}:نقطة علام|حفظ نقطة علام]])"

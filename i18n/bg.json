@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Vlad5250"
+		]
+	},
+	"checkpoint": "Запазете и продължите с редактиране",
+	"checkpoint-desc": "Позволява съхраняване на работата в сред редактиране",
+	"checkpoint-tooltip": "Запазете работата си досега и продължете да редактирате",
+	"checkpoint-notice": "([[{{ns:project}}:Checkpoint|запази досега]])"
+}

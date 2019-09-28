@@ -2,7 +2,7 @@
 
 class CheckpointHooks {
 
-	static function efCheckpointButton( &$editpage, &$buttons ) {
+	static function efCheckpointButton( $editpage, &$buttons ) {
 		$attr = array(
 			'id'    => 'wpCheckpoint',
 			'name'  => 'wpCheckpoint',

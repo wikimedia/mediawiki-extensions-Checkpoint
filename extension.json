@@ -12,7 +12,7 @@
 		]
 	},
 	"AutoloadClasses": {
-		"CheckpointHooks": "Checkpoint.hooks.php"
+		"CheckpointHooks": "CheckpointHooks.php"
 	},
 	"Hooks": {
 		"EditPageBeforeEditButtons": "CheckpointHooks::efCheckpointButton",

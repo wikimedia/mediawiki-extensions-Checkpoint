@@ -3,13 +3,13 @@
 class CheckpointHooks {
 
 	static function efCheckpointButton( $editpage, &$buttons ) {
-		$attr = array(
+		$attr = [
 			'id'    => 'wpCheckpoint',
 			'name'  => 'wpCheckpoint',
 			'type'  => 'submit',
 			'value' => wfMessage( 'checkpoint' )->text(),
 			'title' => wfMessage( 'checkpoint-tooltip' )->text(),
-		);
+		];
 		$buttons['checkpoint'] = Xml::element( 'input', $attr, '' );
 		return true;
 	}

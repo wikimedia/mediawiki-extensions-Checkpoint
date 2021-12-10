@@ -6,6 +6,9 @@
 	"descriptionmsg": "checkpoint-desc",
 	"license-name": "GPL-2.0-or-later",
 	"type": "other",
+	"requires": {
+		"MediaWiki": ">= 1.31.0"
+	},
 	"MessagesDirs": {
 		"Checkpoint": [
 			"i18n"

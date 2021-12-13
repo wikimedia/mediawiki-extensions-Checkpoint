@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
-			"Stelistcristi"
+			"Stelistcristi",
+			"Andreyyshore"
 		]
 	},
-	"checkpoint": "Salvează şi continuă modificarea",
-	"checkpoint-tooltip": "Salvează-ţi progresul şi continuă editarea paginii"
+	"checkpoint": "Salvează și continuă modificarea",
+	"checkpoint-tooltip": "Salvează-ți progresul și continuă editarea paginii"
 }

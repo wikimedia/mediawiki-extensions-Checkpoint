@@ -5,5 +5,8 @@
 			"Yerpo"
 		]
 	},
-	"checkpoint": "Shranite in nadaljujte urejanje"
+	"checkpoint": "Shranite in nadaljujte urejanje",
+	"checkpoint-desc": "Omogoča shranitev urejanja in nadaljnje urejanje",
+	"checkpoint-tooltip": "Shranite napredek in nadaljujte urejanje strani",
+	"checkpoint-notice": "([[{{ns:project}}:Checkpoint|shranjevanje vmesnega stanja]])"
 }

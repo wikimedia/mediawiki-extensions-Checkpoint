@@ -6,6 +6,6 @@
 	},
 	"checkpoint": "Speichern und Fortsetzen der Bearbeitung",
 	"checkpoint-desc": "Ermöglicht das Speichern einer Bearbeitung mit anschließender automatischer Rückkehr zum Bearbeitungsfenster",
-	"checkpoint-tooltip": "Speichere den aktuellen Bearbeitungsstand und fahre sogleich mit der Bearbeitung fort",
+	"checkpoint-tooltip": "{{#FORMAL:Speichere|Speichern Sie}} den aktuellen Bearbeitungsstand und {{#FORMAL:fahre|fahren Sie}} sogleich mit der Bearbeitung fort",
 	"checkpoint-notice": "([[{{ns:project}}:Checkpoint|Zwischenspeicherung]])"
 }
